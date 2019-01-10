@@ -1,1 +1,2 @@
-Here is a line
+Here is a line.
+Here is another line.
